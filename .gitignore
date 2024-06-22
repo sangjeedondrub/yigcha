@@ -1,4 +1,6 @@
 /build/
 /dist/
+/txt/
 !/build/.gitkeep
 !/dist/.gitkeep
+!/txt/.gitkeep
