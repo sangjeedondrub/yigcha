@@ -18,4 +18,4 @@ copy:
 	cp -rf build/*.pdf dist/
 
 extract:
-	 fd -e "tex" -x pandoc -f latex {} -o txt/{/.}.txt --wrap=none
+	 fd -e "tex" -x pandoc -f latex {} -o txt/{/.}.txt --wrap=nones
