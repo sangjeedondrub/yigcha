@@ -1,6 +1,9 @@
 /build/
 /dist/
 /txt/
+/md/
+/pdf/
+
 !/build/.gitkeep
 !/dist/.gitkeep
 !/txt/.gitkeep
